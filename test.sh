@@ -1,0 +1,2 @@
+appid = "testapp"
+echo $appid
